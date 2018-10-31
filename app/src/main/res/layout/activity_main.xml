@@ -19,6 +19,17 @@
         android:fontFamily="casual"
         android:textStyle="bold|italic"
         />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Mos3ad was here"
+        android:textSize="90sp"
+        android:background="#7607C4"
+        android:gravity="center"
+        android:fontFamily="casual"
+        android:textStyle="bold|italic"
+        />
 
     <Button
         android:layout_width="match_parent"
